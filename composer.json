@@ -1,0 +1,19 @@
+{
+    "name": "lyssal/twig-bundle",
+    "description": "Extensions for Twig usable with Symfony.",
+	"license" : "proprietary",
+    "keywords": ["twig"],
+    "type": "symfony-bundle",
+    "authors": [
+        {
+            "name": "Rémi Leclerc",
+            "homepage": "http://www.lyssal.com/"
+        }
+    ],
+    "require": {
+        "lyssal/twig": "~0.1"
+    },
+    "autoload":     {
+        "psr-0": { "Lyssal\\TwigBundle": "src" }
+    }
+}
