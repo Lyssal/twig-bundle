@@ -1,5 +1,7 @@
 # The Lyssal Twig bundle
 
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/18cfcf34-3770-435b-9938-05bfa427bf83/small.png)](https://insight.sensiolabs.com/projects/18cfcf34-3770-435b-9938-05bfa427bf83)
+
 
 ## Installation
 
