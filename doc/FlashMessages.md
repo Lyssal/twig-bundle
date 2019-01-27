@@ -4,7 +4,7 @@
 ## Foundation 6
 
 ```twig
-{% include 'LyssalTwigBundle:MessagesFlash:foundation_6.html.twig' %}
+{%- include '@LyssalTwig/MessagesFlash/foundation_6.html.twig' -%}
 ```
 
 Message types are:
@@ -18,7 +18,7 @@ Message types are:
 ## Foundation 5
 
 ```twig
-{% include 'LyssalTwigBundle:MessagesFlash:foundation_5.html.twig' %}
+{%- include '@LyssalTwig/MessagesFlash/foundation_5.html.twig' -%}
 ```
 
 Message types are:
@@ -33,7 +33,7 @@ Message types are:
 ## Bootstrap 3
 
 ```twig
-{% include 'LyssalTwigBundle:MessagesFlash:bootstrap_3.html.twig' %}
+{%- include '@LyssalTwig/MessagesFlash/bootstrap_3.html.twig' -%}
 ```
 
 Message types are:
@@ -49,5 +49,5 @@ Message types are:
 If you want to translate your messages, add the suffix `_translated` :
 
 ```twig
-{% include 'LyssalTwigBundle:MessagesFlash:bootstrap_3_translated.html.twig' %}
+{%- include '@LyssalTwig/MessagesFlash/bootstrap_3_translated.html.twig' -%}
 ```
