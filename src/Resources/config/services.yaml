@@ -1,0 +1,6 @@
+services:
+    _defaults:
+        autowire: true
+
+    Lyssal\Twig\Extension\RenderingExtension:
+        tags: ['twig.extension']
