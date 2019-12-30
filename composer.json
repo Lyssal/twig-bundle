@@ -13,7 +13,9 @@
     "require": {
         "lyssal/twig": "~0.1"
     },
-    "autoload":     {
-        "psr-0": { "Lyssal\\TwigBundle": "src" }
+    "autoload": {
+        "psr-4": {
+            "Lyssal\\TwigBundle\\": "src/"
+        }
     }
 }
